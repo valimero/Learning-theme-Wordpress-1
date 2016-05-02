@@ -1,0 +1,26 @@
+/*
+	Theme Name:		Custom Theme
+	Theme URI:		http://media-management.fr/
+	Description:	First theme test 
+	Author:			Valentin Coppin
+	Author URI:		http://media-management.fr/
+	Template:		custom
+	Version:		1.0
+*/
+
+html , body
+{
+	background-color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+#header
+{
+}
+
+.titredusite
+{
+	color: red;
+
+}
