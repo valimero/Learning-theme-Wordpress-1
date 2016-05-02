@@ -5,6 +5,8 @@
 		<div class="article">
 			<p class="titre_article"><?php the_title(); ?></p>
 			<p class="content"><?php the_content(); ?></p>
+			<p class="meta_info"><?php the_time('j F Y'); ?></p>
+			<p class="meta_autor"><?php the_author(); ?></p>
 		</div>
 	<?php endwhile; ?>
 <?php endif; ?>
