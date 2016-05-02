@@ -15,6 +15,16 @@ html , body
 	padding: 0;
 }
 
+h1
+{
+	margin: 0;
+}
+
+#header
+{
+	background-color: #eee;
+}
+
 #header
 {
 }
