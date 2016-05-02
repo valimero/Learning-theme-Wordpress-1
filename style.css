@@ -29,6 +29,14 @@ h1
 {
 }
 
+#sidebar
+{
+	float: right;
+	width: 25%;
+	border: solid 1px black;
+	margin: 5px;
+}
+
 .titredusite
 {
 	color: red;
@@ -38,6 +46,8 @@ h1
 {
 	border: 1px solid black;
 	margin: 5px;
+	float: left;
+	width: 70%;
 }
 
 .titre_article
