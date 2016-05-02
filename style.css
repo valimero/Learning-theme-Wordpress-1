@@ -37,6 +37,7 @@ h1
 .article
 {
 	border: 1px solid black;
+	margin: 5px;
 }
 
 .titre_article
